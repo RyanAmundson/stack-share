@@ -1,0 +1,12 @@
+mat-sidenav {
+    width: 100px;
+    max-width:100px;
+    outline: 1px solid black;
+}
+
+mat-list {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: flex-start;
+}

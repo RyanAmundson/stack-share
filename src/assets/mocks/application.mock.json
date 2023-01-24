@@ -1,0 +1,44 @@
+[
+    {
+        "id": 1,
+        "name": "Google Docs",
+        "description": "Online word processing and document editing",
+        "image": "google-docs.jpg"
+    },
+    {
+        "id": 2,
+        "name": "Microsoft Office",
+        "description": "A suite of productivity software including Word, Excel, and PowerPoint",
+        "image": "microsoft-office.jpg"
+    },
+    {
+        "id": 3,
+        "name": "Slack",
+        "description": "Team communication and collaboration tool",
+        "image": "slack.jpg"
+    },
+    {
+        "id": 4,
+        "name": "Trello",
+        "description": "Task and project management tool",
+        "image": "trello.jpg"
+    },
+    {
+        "id": 5,
+        "name": "Zoom",
+        "description": "Video conferencing and webinar platform",
+        "image": "zoom.jpg"
+    },
+    {
+        "id": 6,
+        "name": "Dropbox",
+        "description": "File hosting and sharing service",
+        "image": "dropbox.jpg"
+    },
+    {
+        "id": 7,
+        "name": "GitHub",
+        "description": "Web-based version control and collaboration platform for software development",
+        "image": "github.jpg"
+    }
+]
